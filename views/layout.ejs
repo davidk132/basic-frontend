@@ -1,0 +1,9 @@
+<%- include('partials/header', {styleSheets: styleSheets}); %>
+
+<% if (navBar) { %>
+<%- include('partials/navbar', {title: title} ); %>
+<% } %>
+
+<%- include(content); %>
+
+<%- include('partials/footer'); %>
