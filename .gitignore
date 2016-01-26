@@ -30,4 +30,4 @@ node_modules
 npm-debug.log
 
 # Leave out my scratchpad for mocking stuff up
-scratchpad.html
+scratchpad.*
