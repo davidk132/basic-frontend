@@ -51,7 +51,7 @@ module.exports = {
             {   title: 'DKD Basic API', 
                 content: '../views/partials/signup',
                 navBar: false,
-                styleSheets: ["/assets/stylesheets/login.css"]
+                styleSheets: ["/assets/stylesheets/signup.css"]
             });
     }
 };
